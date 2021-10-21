@@ -716,5 +716,6 @@ R communities and package collections (in alphabetical order):
 
 # Contributing
 Your contributions are always welcome!
-2021.10.21
+
+
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
